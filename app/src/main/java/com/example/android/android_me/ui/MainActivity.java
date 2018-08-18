@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity implements MasterListFragmen
             mTwoPane = false;
         }
 
+
     }
 
     @Override
